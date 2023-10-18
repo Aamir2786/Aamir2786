@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aamir
-- 👀 I’m interested in the field of data analytics.
-- 🌱 I’m currently learning Apache Spark and Microsoft Azure cloud.
-- 💞️ I’m looking to collaborate on Big Data and data analytics projects.
+- 👀 I’m  a data analyst currently working at Rapido.
+- 🌱 I’m currently learning data modeling with dbt.
+- 💞️ I’m looking to improve my skills in the field of Analytics Engineer.
 - 📫 Connect with me on Linkedin (https://www.linkedin.com/in/md-aamir/)
 
 <!---
